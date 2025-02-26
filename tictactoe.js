@@ -101,8 +101,6 @@ function cuadrado(lst){
     return new_lst
 }
 
-console.log(cuadrado(lst));
-
 
 
 
